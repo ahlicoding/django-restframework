@@ -1,0 +1,40 @@
+# Requirements_stander.txt standar
+
+#Django==3.2.10
+Django
+djangorestframework
+djangorestframework-jwt==1.11.0
+djangorestframework-simplejwt==5.2.2
+django-rest-knox
+
+#environtment
+django-environ==0.11.2
+python-dotenv==0.19.1
+
+#image
+Pillow==9.5.0
+
+#menangani perbedaan python 3 dan 2
+six==1.16.0
+
+#Http request
+#requests==2.25.1
+requests==2.26.0
+urllib3==1.26.4
+
+#Membuat schema dokumentasi API otomatis untuk Django REST Framework.
+drf-yasg==1.20.0
+
+# DB
+psycopg2==2.9.1
+mysqlclient
+
+
+django-crispy-forms==1.12.0
+django-filter==2.4.0
+django-cors-headers==3.8.0
+django-ckeditor==6.1.0
+django-redis==5.0.0
+gunicorn==20.1.0
+django-axes==6.3.0
+

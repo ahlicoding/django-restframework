@@ -1,0 +1,30 @@
+# Django Rest Framework
+
+1. Web: https://www.django-rest-framework.org
+
+2. Django REST Framework | User Register Login Logout API 
+   ()
+   https://www.youtube.com/watch?v=Cw_jSc1NGdo
+
+3. Django REST Framework Course – Build Web APIs with Python == modul 3
+   (freecidecamp)
+   https://www.youtube.com/watch?v=tujhGdn1EMI
+
+4. Django REST Framework Oversimplified
+   ()
+   https://www.youtube.com/watch?v=cJveiktaOSQ
+
+5. Pengantar Seri Django REST Framework - Seri 0
+   ()
+    https://www.youtube.com/watch?v=rP17ZIxzNvo&list=PLIcrnZyhZT6IrAh0v-UlNlTY-W6ghtW3W
+
+6. Build a Django REST API with the Django Rest Framework. Complete Tutorial.
+   ()
+   https://www.youtube.com/watch?v=c708Nf0cHrs
+
+7. Fullstack App with Session-Based Auth in Django & React.js (Vite) #django
+   ()
+   https://www.youtube.com/watch?v=GnU7y-9D71Y
+
+
+
